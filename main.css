@@ -238,11 +238,6 @@
 
 }
 
-#login-form {
-    scroll-margin-top: -130px;
-
-}
-
 @media screen and (max-width: 500px) {
     .place-card img {
         width: 100%;
